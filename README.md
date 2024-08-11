@@ -1,6 +1,3 @@
-<img align="left" alt="HTML" src="https://raw.githubusercontent.com/iamrohitsuthar/iamrohitsuthar/master/Cover%20-%20Rohit%20Suthar.png" /> 
-
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/iamrohitsuthar/iamrohitsuthar/master/wave.gif" width="40px">
 My name is Rohit Suthar and I'm a Mobile developer. I'm from India, living in Pune and currently working at Kylas.
 
